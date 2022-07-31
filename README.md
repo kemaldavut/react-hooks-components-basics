@@ -52,7 +52,6 @@ dependencies and the `npm start` command to run the app.
 First, let's make a component for our article:
 
 ```jsx
-// src/Article.js
 function Article() {
   return (
     <div>Dear Reader: Bjarne Stroustrup has the perfect lecture oration.</div>
